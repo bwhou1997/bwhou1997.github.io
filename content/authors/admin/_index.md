@@ -3,7 +3,7 @@
 title: Bowen Hou
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Bowen
@@ -22,16 +22,18 @@ role: PhD Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Yale University
-    url: https://www.yale.edu/
+    # url: https://www.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research includes machine learning, first principle computational methodology development and high throughput computing
 
 # Interests to show in About widget
 interests:
+  - Condensed Matter Physics
   - Machine Learning
-  - First Principle Computation
-  - High Throughput Computing
+  - Many-Body Interaction
+  - First Principle Calculation
+  - Exciton
 
 # Education to show in About widget
 education:
@@ -42,7 +44,6 @@ education:
     - course: B.E. in Optics
       institution: Fudan University
       year: 2016-2021
-
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,7 +94,7 @@ social:
     icon_pack: fas
     link: bowen.hou@yale.edu
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=tIbA0xQAAAAJ&hl=en
     # label: Follow me on Twitter
     # display:
