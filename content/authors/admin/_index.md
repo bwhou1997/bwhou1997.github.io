@@ -46,14 +46,14 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
+# skills:
+#   - name: Technical
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: python
+#         icon_pack: fab
       # - name: Data Science
       #   description: ''
       #   percent: 100
@@ -64,15 +64,15 @@ skills:
       #   percent: 40
       #   icon: database
       #   icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Hiking
+  #       description: ''
+  #       percent: 60
+  #       icon: person-hiking
+  #       icon_pack: fas
       # - name: Cats
       #   description: ''
       #   percent: 100
@@ -98,12 +98,12 @@ social:
     # label: Follow me on Twitter
     # display:
     #   header: true
-  - icon: linkedin # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://www.linkedin.com/in/bowen-hou-78299722a/
   - icon: github
     icon_pack: fab
     link: https://github.com/bwhou1997
+  - icon: linkedin # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://www.linkedin.com/in/bowen-hou-78299722a/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
