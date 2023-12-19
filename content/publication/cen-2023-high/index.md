@@ -4,7 +4,7 @@ title: 'High anisotropy in titanium trisulfide monolayer: Ultrahigh carrier mobi
 authors:
 - Yan Cen
 - Congcong Ma
-- Bowen Hou
+- \textbf{Bowen Hou}
 - Ying Chen
 - Yiming Zhang
 - Yifan Duan

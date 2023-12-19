@@ -12,7 +12,7 @@ publication_types:
 - article-journal
 publication: '*Physical Review Letters*'
 
-abstract: Topological surface states (TSS) in the prototypical topological insulator (TI) Bi2Se3 are frequently characterized using optical probes, but electron-hole interactions and their effect on surface localization and optical response of the TSS remain unexplored. Here, we use ab initio calculations to understand excitonic effects in the bulk and surface of Bi2Se3. We identify multiple series of chiral excitons that exhibit both bulk and TSS character, due to exchange-driven mixing. Our results address fundamental questions about the degree to which electron-hole interactions can relax the topological protection of surface states and dipole selection rules for circularly polarized light in TIs by elucidating the complex intermixture of bulk and surface states excited in optical measurements and their coupling to light.
+abstract: Our research address fundamental questions about the degree to which electron-hole interactions can relax the topological protection of surface states and dipole selection rules for circularly polarized light in TIs by elucidating the complex intermixture of bulk and surface states excited in optical measurements and their coupling to light.
 
 featured: true
 image:
@@ -20,4 +20,5 @@ image:
   focal_point: ''
   preview_only: false
 
+url_pdf: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.130.216402
 ---

@@ -8,7 +8,7 @@ authors:
 - Zixuan Lu
 - Hao Zhang
 - Bohayra Mortazavi
-- Bowen Hou
+- \textbf{Bowen Hou}
 - Ke Xu
 - Haodong Mei
 - Timon Rabczuk

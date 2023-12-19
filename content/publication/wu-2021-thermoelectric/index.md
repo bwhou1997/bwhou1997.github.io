@@ -3,7 +3,7 @@ title: 'Thermoelectric performance of 2D materials: The band-convergence strateg
   and strong intervalley scatterings'
 authors:
 - Yu Wu
-- Bowen Hou
+- \textbf{Bowen Hou}
 - Congcong Ma
 - Jiang Cao
 - Ying Chen

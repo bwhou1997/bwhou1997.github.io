@@ -4,7 +4,7 @@ title: 'Renormalized thermoelectric figure of merit in a band-convergent Sb 2 Te
 authors:
 - Ying Chen
 - Yu Wu
-- Bowen Hou
+- \textbf{Bowen Hou}
 - Jiang Cao
 - Hezhu Shao
 - Yiming Zhang

@@ -3,7 +3,7 @@ title: 'Towards high-temperature electron-hole condensate phases in monolayer te
   metal halides: Ultra-long excitonic lifetimes, phase diagram and exciton dynamics'
 authors:
 - Yiming Zhang
-- Bowen Hou
+- \textbf{Bowen Hou}
 - Yu Wu
 - Ying Chen
 - Yujie Xia
