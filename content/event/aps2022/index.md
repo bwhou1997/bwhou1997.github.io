@@ -1,30 +1,30 @@
 ---
-title: Example Talk
+title: Ab initio study of quasiparticle band structure and chiral exciton in the topological insulator Bi2Se3
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: APS March Meeting
+event_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tIbA0xQAAAAJ&sortby=pubdate&citation_for_view=tIbA0xQAAAAJ:WF5omc3nYNoC
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Chicago, USA
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+# summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+abstract: 'Most known bound excitons are composed of massive electron-hole pairs, while optical excitations arising from massless quasiparticle bands, such as the Dirac cone in graphene, tend to be short-lived resonant exciton states. However, researchers have recently measured novel long-lived chiral excitons in the 3D topological insulator Bi2Se3, which are composed of massive holes and massless electrons, both residing on the surface state and subject to strong spin-orbit interactions. These chiral excitons exhibit both circular dichroism and almost perfectly preserved circular polarization in the photoluminescence emission caused by chiral exciton recombination. Here, we utilize the ab initio GW and GW plus Bethe Salpeter equation (GW+BSE) method to study the quasiparticle bandstructure and optical absorption spectrum including excitonic effects in both the bulk and surface of Bi2Se3. Our calculations are based on the fully-relativistic spinor GW-BSE formalism and reveal the nature of both excitons near the Fermi level and those arising from transitions between higher-energy surface states.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-03'
+# date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
+authors: [Bowen Hou, Dan Wang, Diana Qiu]
 tags: []
 
 # Is this a featured talk? (true/false)

@@ -2,7 +2,7 @@
 title: Spin-Stabilization by Coulomb Blockade in a Vanadium Dimer in WSe2
 authors:
 - Samuel Stolz
-- \textbf{Bowen Hou}
+- Bowen Hou
 - Dan Wang
 - Azimkhan Kozhakhmetov
 - Chengye Dong

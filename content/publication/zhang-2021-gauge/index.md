@@ -6,7 +6,7 @@ authors:
 - Ke Xu
 - Chunmin Liu
 - Xiaoxiao Song
-- \textbf{Bowen Hou}
+- Bowen Hou
 - Rui Yu
 - Hao Zhang
 - Dan Li

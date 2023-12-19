@@ -5,7 +5,7 @@ authors:
 - Bo Peng
 - Hao Zhang
 - Weiwen Chen
-- \textbf{Bowen Hou}
+- Bowen Hou
 - Zhi-Jun Qiu
 - Hezhu Shao
 - Heyuan Zhu

@@ -154,6 +154,8 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: '2'
+
+
   # - block: portfolio
   #   id: projects
   #   content:
@@ -181,6 +183,8 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
+
+
   # - block: markdown
   #   content:
   #     title: Gallery
@@ -189,6 +193,17 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
+
+
+
+- block: markdown
+    id: service
+    content:
+      title: Service
+      subtitle: Journal Referee
+      text: Crystal <br> Solid State Communications<br> Computational Materials Science
+      subtitle: Teaching Fellow
+      text: ENAS 775 (Yale)<br> MENG 211 (Yale)<br> PHYS 130107 (Fudan)
 
 
   - block: collection
@@ -201,7 +216,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: showcase
+      view: compact
 
 
 
@@ -221,6 +236,7 @@ sections:
       view: list
 
 
+
   - block: collection
     id: talks
     content:
@@ -230,14 +246,14 @@ sections:
           - event
     design:
       columns: '2'
-      view: compact
+      view: list
 
 
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
 
 
 
@@ -266,7 +282,7 @@ sections:
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '41.25968645096544'
-        longitude: '72.98906110130761'  
+        longitude: '-72.98912230352613'  
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab

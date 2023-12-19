@@ -2,7 +2,7 @@
 title: Room temperature bound excitons and strain-tunable carrier mobilities in Janus
   monolayer transition-metal dichalcogenides
 authors:
-- \textbf{Bowen Hou}
+- Bowen Hou
 - Yiming Zhang
 - Hao Zhang
 - Hezhu Shao

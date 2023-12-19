@@ -119,7 +119,7 @@ social:
 highlight_name: true
 ---
 
-Hi! My name is Bowen Hou(侯博文). I am a third year PhD candidate at Yale , where I am fortunate to be advised by [Prof. Diana Qiu](https://qiugroup.yale.edu/). I work in theoretical and computational condensed matter physics. My research includes machine learning, first principle computational methodology development and high throughput computing.
+Hi! My name is Bowen Hou (侯博文). I am a third year PhD candidate at Yale , where I am fortunate to be advised by [Prof. Diana Qiu](https://qiugroup.yale.edu/). I work in theoretical and computational condensed matter physics. My research includes machine learning, first principle computational methodology development and high throughput computing.
 
 More specifically: 
 - Apply machine learning approaches including deep learning and unsupervised learning (VAE) to study electronic structures and predict many-body effect on band renormalization.

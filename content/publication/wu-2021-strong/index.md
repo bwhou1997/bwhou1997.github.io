@@ -3,7 +3,7 @@ title: Strong electron--phonon coupling influences carrier transport and thermoe
   performances in group-IV/V elemental monolayers
 authors:
 - Yu Wu*
-- \textbf{Bowen Hou*}
+- Bowen Hou*
 - Ying Chen
 - Jiang Cao
 - Hezhu Shao
