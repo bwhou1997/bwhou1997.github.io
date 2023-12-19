@@ -21,7 +21,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Yale University
+  - name: Diana Qiu's Lab, Yale University
     # url: https://www.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
