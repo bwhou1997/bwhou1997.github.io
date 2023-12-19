@@ -109,12 +109,12 @@ social:
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
-    icon_pack: ai
+    icon_pack: fab
     link: uploads/HouBowenCV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Bowen Hou is XXXX
+Hi! I am a third year PhD candidate at Yale , where I am fortunate to be advised by prof. Diana Qiu. I work in theoretical and computational condensed matter physics. My research spans machine learning, first principle computational methodology development and high throughput computing.
 {style="text-align: justify;"}
