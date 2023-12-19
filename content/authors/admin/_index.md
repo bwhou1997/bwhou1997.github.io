@@ -92,7 +92,7 @@ education:
 social:
   - icon: envelope
      icon_pack: fas
-     link: bowen dot hou AT yale dot edu
+     link: firstname.lastname@yale.edu
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=tIbA0xQAAAAJ&hl=en
