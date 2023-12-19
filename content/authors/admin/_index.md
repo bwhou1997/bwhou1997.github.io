@@ -93,6 +93,9 @@ social:
   # - icon: envelope
   #    icon_pack: fas
   #    link: firstname.lastname@yale.edu
+  - icon: envelope
+    icon_pack: fas
+    link: "/#contact"
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=tIbA0xQAAAAJ&hl=en
