@@ -90,9 +90,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: bowen.hou@yale.edu
+  - icon: envelope
+     icon_pack: fas
+     link: bowen dot hou AT yale dot edu
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=tIbA0xQAAAAJ&hl=en
@@ -122,6 +122,6 @@ highlight_name: true
 Hi! My name is Bowen Hou (侯博文). I am a third year PhD candidate at Yale , where I am fortunate to be advised by [Prof. Diana Qiu](https://qiugroup.yale.edu/). I work in theoretical and computational condensed matter physics. My research includes machine learning, first principle computational methodology development and high throughput computing.
 
 More specifically: 
-- Apply machine learning approaches including deep learning and unsupervised learning (VAE) to study electronic structures and predict many-body effect on band renormalization.
+- Apply machine learning approaches in condensed matter physics. Currently focus on using deep learning and unsupervised learning (VAE) to study electronic structures and predict many-body effect on band renormalization.
 - Develop and apply the first-principle algorithm to investigate the complex many-body interaction in quantum systems. Currently focus on the exciton-phonon coupling and non-equilibrium exciton dynamics in low-dimensional quantum system.
 {style="text-align: justify;"}
