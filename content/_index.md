@@ -208,12 +208,13 @@ sections:
   - block: markdown
     id: service
     content:
-      title: Service
+      title: Academic Service
       # text: |-
       # Crystal, Solid State Communications, Computational Materials Science
-      subtitle: 'Journal Referee'
+      # subtitle: 'Journal Referee'
       text: |-
-        Crystal, Solid State Communications, Computational Materials Science    
+        **Journal Referee**: Crystal, Solid State Communications, Computational Materials Science  <br>
+        **Teaching Fellow**: ENAS 775 (Yale), MENG 211 (Yale), PHYS 130107 (Fudan)
     design:
       columns: '2'
 
