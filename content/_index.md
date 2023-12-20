@@ -206,7 +206,8 @@ sections:
         **Journal Referee**: 
         - Crystal 
         - Solid State Communications 
-        - Computational Materials Science  <br>
+        - Computational Materials Science 
+
         **Teaching Fellow**: 
         - ENAS 775 (Yale, 2023)
         - MENG 211 (Yale, 2022) 
