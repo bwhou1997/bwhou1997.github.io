@@ -278,6 +278,8 @@ sections:
           tag: Exciton Dynamics
         - name: Topological Insulator
           tag: Topological Insulator
+        - name: Collaboration
+          tag: Collaboration
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
