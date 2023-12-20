@@ -194,28 +194,6 @@ sections:
   #   design:
   #     columns: '1'
 
-
-  - block: markdown
-    id: service
-    content:
-      title: Academic Service
-      # text: |-
-      # Crystal, Solid State Communications, Computational Materials Science
-      # subtitle: 'Journal Referee'
-      text: |-
-        **Journal Referee**: 
-        - Crystal 
-        - Solid State Communications 
-        - Computational Materials Science 
-
-        **Teaching Fellow**: 
-        - ENAS 775 (Yale, 2023)
-        - MENG 211 (Yale, 2022) 
-        - PHYS 130107 (Fudan, 2019, 2020)
-    design:
-      columns: '2'
-
-
   - block: collection
     id: featured
     content:
@@ -243,7 +221,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: list
+      view: citation
 
 
 
@@ -265,6 +243,26 @@ sections:
   #   design:
   #     columns: '2'
 
+
+  - block: markdown
+    id: service
+    content:
+      title: Academic Service
+      # text: |-
+      # Crystal, Solid State Communications, Computational Materials Science
+      # subtitle: 'Journal Referee'
+      text: |-
+        **Journal Referee**: 
+        - Crystal 
+        - Solid State Communications 
+        - Computational Materials Science 
+
+        **Teaching Fellow**: 
+        - ENAS 775 (Yale, 2023)
+        - MENG 211 (Yale, 2022) 
+        - PHYS 130107 (Fudan, 2019, 2020)
+    design:
+      columns: '2'
 
 
   - block: contact
