@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    org_name: 'Yale University'
+    description: 'Bowen Hou, PhD researcher at Yale University'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: 'G-8FRGDWMT04'
@@ -28,6 +28,7 @@ marketing:
   verification:
     google: ''
     baidu: ''
+    bing: ''
 
 # Site header
 
