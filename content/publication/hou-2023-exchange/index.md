@@ -2,7 +2,7 @@
 title: Exchange-Driven Intermixing of Bulk and Topological Surface States by Chiral
   Excitons in Bi2Se3
 authors:
-- **Bowen Hou**
+- '**Bowen Hou**'
 - Dan Wang
 - Bradford A Barker
 - Diana Y Qiu
