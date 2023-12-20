@@ -205,7 +205,7 @@ sections:
 #       # subtitle: Teaching Fellow
 #       # text: ENAS 775 (Yale)<br> MENG 211 (Yale)<br> PHYS 130107 (Fudan)
 
-  - block: service
+  - block: markdown
     id: service
     content:
       title: Service
@@ -214,7 +214,7 @@ sections:
       text: |-
         Crystal, Solid State Communications, Computational Materials Science    
     design:
-      columns: '2'
+      columns: '1'
 
 
   - block: collection
