@@ -1,8 +1,8 @@
 ---
-title: Exciton Interaction
-summary: Coming Soon!
+title: Exciton in Topological Insulator
+summary: Our results address fundamental questions about the degree to which electron-hole interactions can relax the topological protection of surface states and dipole selection rules for circularly polarized light in TIs by elucidating the complex intermixture of bulk and surface states excited in optical measurements and their coupling to light.
 tags:
-  - Exciton Dynamics
+  - Topological Insulator
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -18,7 +18,7 @@ links:
   #   name: Follow
   #   url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.216402'
 url_slides: ''
 url_video: ''
 
