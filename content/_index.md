@@ -195,17 +195,25 @@ sections:
   #     columns: '1'
 
 
+# - block: collection
+#     id: service
+#     content:
+#       title: Service
+#       # subtitle: Journal Referee
+#        text: |- 
+#        Crystal <br> Solid State Communications<br> Computational Materials Science
+#       # subtitle: Teaching Fellow
+#       # text: ENAS 775 (Yale)<br> MENG 211 (Yale)<br> PHYS 130107 (Fudan)
 
-- block: collection
+
+  - block: collection
     id: service
     content:
       title: Service
-      # subtitle: Journal Referee
-       text: |- 
-       Crystal <br> Solid State Communications<br> Computational Materials Science
-      # subtitle: Teaching Fellow
-      # text: ENAS 775 (Yale)<br> MENG 211 (Yale)<br> PHYS 130107 (Fudan)
-
+      text: |-
+      Crystal, Solid State Communications, Computational Materials Science
+    design:
+      columns: '2'
 
   - block: collection
     id: featured
