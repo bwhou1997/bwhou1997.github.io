@@ -195,16 +195,6 @@ sections:
   #     columns: '1'
 
 
-# - block: collection
-#     id: service
-#     content:
-#       title: Service
-#       # subtitle: Journal Referee
-#        text: |- 
-#        Crystal <br> Solid State Communications<br> Computational Materials Science
-#       # subtitle: Teaching Fellow
-#       # text: ENAS 775 (Yale)<br> MENG 211 (Yale)<br> PHYS 130107 (Fudan)
-
   - block: markdown
     id: service
     content:
@@ -213,8 +203,14 @@ sections:
       # Crystal, Solid State Communications, Computational Materials Science
       # subtitle: 'Journal Referee'
       text: |-
-        **Journal Referee**: Crystal, Solid State Communications, Computational Materials Science  <br>
-        **Teaching Fellow**: ENAS 775 (Yale), MENG 211 (Yale), PHYS 130107 (Fudan)
+        **Journal Referee**: 
+        - Crystal 
+        - Solid State Communications 
+        - Computational Materials Science  <br>
+        **Teaching Fellow**: 
+        - ENAS 775 (Yale, 2023)
+        - MENG 211 (Yale, 2022) 
+        - PHYS 130107 (Fudan, 2019, 2020)
     design:
       columns: '2'
 
