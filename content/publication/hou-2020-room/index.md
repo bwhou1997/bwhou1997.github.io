@@ -4,14 +4,7 @@ title: Room temperature bound excitons and strain-tunable carrier mobilities in 
 authors:
 - Bowen Hou
 - Yiming Zhang
-- Hao Zhang
-- Hezhu Shao
-- Congcong Ma
-- Xintong Zhang
-- Ying Chen
-- Ke Xu
-- Gang Ni
-- Heyuan Zhu
+- etc
 date: '2020-03-27'
 publishDate: '2023-12-19T18:40:22.041607Z'
 publication_types:
