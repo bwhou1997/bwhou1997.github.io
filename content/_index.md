@@ -225,16 +225,16 @@ sections:
 
 
 
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: list
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: list
 
 
   # - block: tag_cloud
@@ -258,9 +258,11 @@ sections:
         - Computational Materials Science 
 
         **Teaching Fellow**: 
-        - ENAS 775 (Yale, 2023)
-        - MENG 211 (Yale, 2022) 
-        - PHYS 130107 (Fudan, 2019, 2020)
+        - Instructor for BerkeleyGW Workshop
+          - [9th BerkeleyGW Tutorial Workshop ](https://workshop.berkeleygw.org/)
+        - TA ENAS 775 (Yale, 2023)
+        - TA MENG 211 (Yale, 2022) 
+        - TA PHYS 130107 (Fudan, 2019, 2020)
     design:
       columns: '2'
 
