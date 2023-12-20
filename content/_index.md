@@ -211,10 +211,11 @@ sections:
       title: Service
       # text: |-
       # Crystal, Solid State Communications, Computational Materials Science
+      subtitle: 'Journal Referee'
       text: |-
         Crystal, Solid State Communications, Computational Materials Science    
     design:
-      columns: '1'
+      columns: '2'
 
 
   - block: collection
