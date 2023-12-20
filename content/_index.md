@@ -254,8 +254,10 @@ sections:
         - APS March Meeting, "Ab initio study of quasiparticle band structure and chiral exciton in the topological insulator Bi2Se3", Chicago, US
         - Instructor for BerkeleyGW Workshop
           - [9th BerkeleyGW Tutorial Workshop ](https://workshop.berkeleygw.org/)
+
         2022:
         - Center for Computational Study of Excited-State Phenomena in Energy Materials (C2SEPEM), “Long-Lived Chiral Excitons in the 3D Topological Insulator Bi2Se3”, Virtually
+        
         2020:
         - The 20th Anniversary Celebration Department of Optical Science (Fudan), “Exciton Behavior and Tunable Mobilities in JTMDs”, Shanghai, China
     design:
