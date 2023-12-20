@@ -210,8 +210,10 @@ sections:
     id: service
     content:
       title: Service
+      # text: |-
+      # Crystal, Solid State Communications, Computational Materials Science
       text: |-
-      Crystal, Solid State Communications, Computational Materials Science
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.      
     design:
       columns: '2'
 
