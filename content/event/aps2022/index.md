@@ -1,5 +1,5 @@
 ---
-title: Ab initio study of quasiparticle band structure and chiral exciton in the topological insulator Bi2Se3
+title: An Ab initio study of quasiparticle band structure and chiral exciton in the topological insulator Bi2Se3
 
 event: APS March Meeting
 event_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tIbA0xQAAAAJ&sortby=pubdate&citation_for_view=tIbA0xQAAAAJ:WF5omc3nYNoC
