@@ -17,7 +17,7 @@ abstract: 'Exciton-phonon coupling plays a central role in understanding exciton
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-03'
+date: '2024-03-05'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
