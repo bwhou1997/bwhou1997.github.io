@@ -227,7 +227,7 @@ sections:
         
         2023: 
         - APS March Meeting, "Exchange-Driven Intermixing of Bulk and Topological Surface State by Chiral Excitons in Bi2Se3", Las Vegas, US
-        - Instructor for BerkeleyGW Workshop
+        - Instructor for BerkeleyGW Workshop, Oakland, CA
           - [9th BerkeleyGW Tutorial Workshop ](https://workshop.berkeleygw.org/)
 
         2022:
