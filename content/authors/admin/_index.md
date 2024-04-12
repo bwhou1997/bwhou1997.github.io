@@ -31,6 +31,7 @@ bio: My research includes machine learning, first principle computational method
 interests:
   - Condensed Matter Physics
   - Machine Learning
+  - Generative Model
   - Many-Body Interaction
   - First Principle Calculation
   - Exciton
