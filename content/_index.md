@@ -222,6 +222,8 @@ sections:
     content:
       title: Talks
       text: |-
+        2024: 
+        - APS March Meeting, "Understanding Exciton-Phonon Interactions for Long-lived High-lying Resonant Excitons in WSe2", Minneapolis, US
         2023: 
         - APS March Meeting, "Exchange-Driven Intermixing of Bulk and Topological Surface State by Chiral Excitons in Bi2Se3", Las Vegas, US
         - Instructor for BerkeleyGW Workshop
