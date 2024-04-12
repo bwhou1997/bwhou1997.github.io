@@ -31,7 +31,6 @@ bio: My research includes machine learning, first principle computational method
 interests:
   - Condensed Matter Physics
   - Machine Learning
-  - Generative Model
   - Many-Body Interaction
   - First Principle Calculation
   - Exciton
@@ -128,6 +127,6 @@ Hi! My name is Bowen Hou (侯博文). I am a third year PhD candidate at Yale , 
 I work in theoretical and computational condensed matter physics. My research includes machine learning, first principle computational methodology development and high throughput computing.
 
 More specifically: 
-- Apply machine learning approaches in condensed matter physics. Currently focus on using deep learning and unsupervised learning (VAE) to study electronic structures and predict many-body effect on band renormalization.
+- Apply machine learning approaches in condensed matter physics. Currently focus on using unsupervised learning and generative model (e.g. VAEs) to study electronic structures and predict downstream complicated many-body interaction.
 - Develop and apply the first-principle algorithm to investigate the complex many-body interaction in quantum systems. Currently focus on the exciton-phonon coupling and non-equilibrium exciton dynamics in low-dimensional quantum system.
 {style="text-align: justify;"}
