@@ -21,7 +21,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Diana Qiu's Lab, Yale University
+  - name: Diana Qiu's Group, Yale University
     # url: https://www.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -124,9 +124,9 @@ highlight_name: true
 
 Hi! My name is Bowen Hou (侯博文). I am a third year PhD candidate at Yale , where I am fortunate to be advised by [Prof. Diana Qiu](https://qiugroup.yale.edu/). Before this, I studied at Fudan University and graduated with the highest honor for undergraduate students ([Fudan Graduation Star](https://optics.fudan.edu.cn/2e/14/c39848a470548/page.htm))
 
-I work in theoretical and computational condensed matter physics. My research includes machine learning, first principle computational methodology development and high throughput computing.
+I work in theoretical and computational condensed matter physics. My research includes machine learning, first-principle computational methodology development and high performance computing (HPC).
 
 More specifically: 
-- Apply machine learning approaches in condensed matter physics. Currently focus on using unsupervised learning and generative model (e.g. VAEs) to study electronic structures and predict downstream complicated many-body interaction.
+- Apply machine learning approaches in condensed matter physics. Currently focus on using unsupervised learning and generative model (e.g. VAEs) to study electronic structures and predict complicated downstream many-body interaction.
 - Develop and apply the first-principle algorithm to investigate the complex many-body interaction in quantum systems. Currently focus on the exciton-phonon coupling and non-equilibrium exciton dynamics in low-dimensional quantum system.
 {style="text-align: justify;"}
