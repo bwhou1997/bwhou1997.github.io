@@ -251,6 +251,9 @@ sections:
         - Crystal 
         - Solid State Communications 
         - Computational Materials Science 
+        - Photonics
+        - Sensors
+        
 
         **Teaching Fellow**: 
         - TA ENAS 775 (Yale, 2023)
