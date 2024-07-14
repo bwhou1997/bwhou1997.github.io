@@ -279,6 +279,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: Machine Learning
+          tag: Machine Learning
         - name: Exciton Dynamics
           tag: Exciton Dynamics
         - name: Topological Insulator
