@@ -29,9 +29,10 @@ bio: My research includes first principle computational methodology development 
 
 # Interests to show in About widget
 interests:
-  - Condensed Matter Physics
-  - Many-Body Interaction
-  - First Principle Calculation
+  - Machine Learning
+  - AI4Science
+  - First Principle Software
+  - Many-Body Physics
   - Exciton
 
 # Education to show in About widget
@@ -126,5 +127,7 @@ Hi! My name is Bowen Hou (侯博文). I am a third year PhD candidate at Yale , 
 I work in theoretical and computational condensed matter physics. My research includes first-principle computational methodology development and high performance computing (HPC).
 
 More specifically: 
-- Develop and apply the first-principle algorithm to investigate the complex many-body interaction in materials. Currently focus on the exciton-phonon coupling and non-equilibrium exciton dynamics in low-dimensional materials.
+- Designed and implemented a novel deep learning and generative model, Crystal Variational Autoencoders (Crystal-VAEs), to study electronic structures and predict computationally expensive many-body effects.
+
+- Develop and apply the first-principle algorithm to investigate the complex many-body interaction in materials. Currently focus on the exciton-phonon coupling and non-equilibrium exciton dynamics in low-dimensional materials. This algorithm, optimized for HPC platforms, achieved a 500x reduction in computation time.
 {style="text-align: justify;"}
