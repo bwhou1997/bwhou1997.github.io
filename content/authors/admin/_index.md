@@ -124,7 +124,7 @@ highlight_name: true
 
 Hi! My name is Bowen Hou (侯博文). I am a third year PhD candidate at Yale , where I am fortunate to be advised by [Prof. Diana Qiu](https://qiugroup.yale.edu/). Before this, I studied at Fudan University and graduated with the highest honor for undergraduate students ([Fudan Graduation Star](https://optics.fudan.edu.cn/2e/14/c39848a470548/page.htm))
 
-I work in theoretical and computational condensed matter physics. My research includes first-principle computational methodology development and high performance computing (HPC).
+I work in theoretical and computational condensed matter physics. My research includes machine learning, first-principle computational methodology development and high performance computing (HPC).
 
 More specifically: 
 - Designed and implemented a novel deep learning and generative model, Crystal Variational Autoencoders (Crystal-VAEs), to study electronic structures and predict computationally expensive many-body effects.
