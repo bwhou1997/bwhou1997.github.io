@@ -127,7 +127,10 @@ Hi! My name is Bowen Hou (侯博文). I am a fourth year PhD candidate at Yale ,
 I work in theoretical and computational condensed matter physics. My research includes machine learning, first-principle computational methodology development and high performance computing (HPC).
 
 More specifically: 
+
+- Data-driven acceleration of non-equilibrium time-dependent quantum dynamics. Derived a low-rank approximation for two particle vertex function, providing a possible compact subspace to reduce computational cost of solving Kadanoff-Baym equations.
+
 - Designed and implemented a novel deep learning and generative model, Crystal Variational Autoencoders (Crystal-VAEs), to study electronic structures and predict computationally expensive many-body effects.
 
-- Develop and apply the first-principle algorithm to investigate the complex many-body interaction in materials. Currently focus on the exciton-phonon coupling and non-equilibrium exciton dynamics in low-dimensional materials. This algorithm, optimized for HPC platforms, achieved a 500x reduction in computation time.
+- Developed and applied the first-principle algorithm to investigate the complex many-body interaction in materials. Currently focus on the exciton-phonon coupling and non-equilibrium exciton dynamics in low-dimensional materials. This algorithm, optimized for HPC platforms, achieved a 500x reduction in computation time.
 {style="text-align: justify;"}
