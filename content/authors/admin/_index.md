@@ -31,7 +31,7 @@ bio: My research includes first principle computational methodology development 
 interests:
   - Machine Learning
   - AI4Science
-  - First Principle Software Development
+  - First Principle Software
   - Many-Body Perturbation Theory
   - DFT, GW+BSE
   - Exciton
