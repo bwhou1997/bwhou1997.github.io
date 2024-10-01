@@ -31,8 +31,9 @@ bio: My research includes first principle computational methodology development 
 interests:
   - Machine Learning
   - AI4Science
-  - First Principle Software
-  - Many-Body Physics
+  - First Principle Software Development
+  - Many-Body Perturbation Theory
+  - DFT, GW+BSE
   - Exciton
 
 # Education to show in About widget
@@ -124,7 +125,7 @@ highlight_name: true
 
 Hi! My name is Bowen Hou (侯博文). I am a fourth year PhD candidate at Yale , where I am fortunate to be advised by [Prof. Diana Qiu](https://qiugroup.yale.edu/). Before this, I studied at Fudan University and graduated with the highest honor for undergraduate students ([Fudan Graduation Star](https://optics.fudan.edu.cn/2e/14/c39848a470548/page.htm))
 
-I work in theoretical and computational condensed matter physics. My research includes machine learning, first-principle computational methodology development and high performance computing (HPC).
+I work in theoretical and computational condensed matter physics. My research includes first-principle calculation (DFT, GW+BSE) and development, machine learning, many-body perturbation theory.
 
 More specifically: 
 
