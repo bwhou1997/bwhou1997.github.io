@@ -129,7 +129,7 @@ I work in theoretical and computational condensed matter physics. My research in
 
 More specifically: 
 
-- Data-driven acceleration of non-equilibrium time-dependent quantum dynamics. Derived a low-rank approximation for two particle vertex function, providing a possible compact subspace to reduce computational cost of solving Kadanoff-Baym equations.
+- Data-driven acceleration of non-equilibrium time-dependent quantum dynamics. Derived a low-rank approximation for two particle vertex function. Built a Fourier operator neural network (FNO) to predict the time evolution for density matrix.
 
 - Designed and implemented a novel deep learning and generative model, Crystal Variational Autoencoders (Crystal-VAEs), to study electronic structures and predict computationally expensive many-body effects.
 
