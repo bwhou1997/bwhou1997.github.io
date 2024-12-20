@@ -129,9 +129,9 @@ I work in theoretical and computational condensed matter physics. My research in
 
 More specifically: 
 
-- Data-driven acceleration of non-equilibrium time-dependent quantum dynamics. Derived a low-rank approximation for two particle vertex function. Built a Fourier operator neural network (FNO) to predict the time evolution for density matrix.
+- Data-driven acceleration of non-equilibrium time-dependent quantum dynamics. Applied singular value decomposition (SVD) to derive a low-rank approximation for two-particle vertex function, creating a 10× compact subspace to compress the original dataset with highly reconstructed accuracy.
 
 - Designed and implemented a novel deep learning and generative model, Crystal Variational Autoencoders (Crystal-VAEs), to study electronic structures and predict computationally expensive many-body effects.
 
-- Developed and applied the first-principle algorithm to investigate the complex many-body interaction in materials. Currently focus on the exciton-phonon coupling and non-equilibrium exciton dynamics in low-dimensional materials. This algorithm, optimized for HPC platforms, achieved a 500x reduction in computation time.
+- Developed parallel first-principle software using MPI and CUDA to investigate quantum many-body interactions, specifically exciton-phonon coupling, in low-dimensional physical systems. This algorithm, optimized for HPC platforms, achieved a linear reduction in computation time.
 {style="text-align: justify;"}
