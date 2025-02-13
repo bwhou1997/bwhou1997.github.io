@@ -1,6 +1,6 @@
 ---
-title: Unsupervised Learning of Individual Kohn-Sham States
-summary: In this work, we showcase for the first time that a well-crafted VAE is capable of representing KS-DFT wavefunctions on a manifold within a significantly compressed latent space, which is 10<sup>3</sup> - 10<sup>4</sup> times smaller than the original input. Importantly, these succinct representations still retain the full physical information inherent in the initial data.
+title: Data-driven Low-rank Approximation for Electron-hole Vertex Function
+summary:  Utilizing the localized excitonic effects in the Hilbert space of crystalline systems, we achieve at least 95% compression of the kernel and an order-of-magnitude speedup of TD-aGW calculations. Our method, rooted in physical interpretability, outperforms existing machine learning approaches by avoiding intensive training processes and eliminating time-accumulated errors, providing a general framework for high-throughput, nonequilibrium simulation of light-driven dynamics in materials.
 tags:
   - Machine learning
 date: '2016-04-27T00:00:00Z'
@@ -18,7 +18,7 @@ links:
   #   name: Follow
   #   url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'https://www.nature.com/articles/s41467-024-53748-7'
+url_pdf: 'https://arxiv.org/abs/2502.05635'
 url_slides: ''
 url_video: ''
 
